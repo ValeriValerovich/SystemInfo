@@ -29,6 +29,8 @@ foreach (Drive drive in systemDataResult.Drives)
 Root root = await Weather.Get("Tallinn");
 ConsoleWriter.WriteLineInformation("Temperature in Tallinn right now: " + root.current.temp_c);
 
+Console.ReadLine();
+
 public sealed class ConsoleWriter
 {
     private static readonly ILogger logger = new Logger();

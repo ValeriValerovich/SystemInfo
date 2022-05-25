@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qaHr84xZ4dH9sDzlX6TevHyuK7Td5eulQ1LprJ5FtSl4g5utOHl44KwgoDPgAhLrAMSiTq67gs9+a/mNQ/92aQ==",
+  "dgSpecHash": "Lv6nzCvcGO/fsxCBfHk3Xvwtw1YNsZhcGGu+Ffs3bUxR6ihzw/jw6fgWfmWwnn/Hmuci1EX4RoJJSRomyrlZwQ==",
   "success": true,
-  "projectFilePath": "D:\\repos\\SystemInfo\\SystemInfo\\SystemInfo.csproj",
+  "projectFilePath": "D:\\Github\\SystemInfo\\SystemInfo\\SystemInfo\\SystemInfo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cetni\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\cetni\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

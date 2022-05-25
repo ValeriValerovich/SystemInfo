@@ -364,11 +364,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\SystemInfo\\SystemInfo\\SystemInfo.csproj",
+      "projectUniqueName": "D:\\Github\\SystemInfo\\SystemInfo\\SystemInfo\\SystemInfo.csproj",
       "projectName": "SystemInfo",
-      "projectPath": "D:\\repos\\SystemInfo\\SystemInfo\\SystemInfo.csproj",
+      "projectPath": "D:\\Github\\SystemInfo\\SystemInfo\\SystemInfo\\SystemInfo.csproj",
       "packagesPath": "C:\\Users\\cetni\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\SystemInfo\\SystemInfo\\obj\\",
+      "outputPath": "D:\\Github\\SystemInfo\\SystemInfo\\SystemInfo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cetni\\AppData\\Roaming\\NuGet\\NuGet.Config",
